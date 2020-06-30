@@ -1,5 +1,8 @@
 # swift_core_graphics_tutorial
 
+### Core Graphics
+
+Core Graphics is Apple’s vector drawing framework. It’s a big, powerful application programming interface (API) with many tools to master and cool features like
 
 ### Core Image
 
